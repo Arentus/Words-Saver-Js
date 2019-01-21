@@ -1,0 +1,45 @@
+.main{
+	margin: 1rem;
+	font-family: 'Aleo', serif;
+}
+.title-header{
+	padding: 3vh;
+	border-radius: 5px;
+	text-align: center;
+}
+.gradient-b{
+	background: right linear-gradient(to right, rgb(22,52,82),rgb(52,52,224));
+	color: white;
+}
+.form-group input{
+	text-align: center;
+	margin: .4em 0em;
+}
+.form-control{
+	padding: 1em;
+	font-size: 2em;
+}
+
+.word-header{
+	font-size: 1.2em;
+	padding: .5em;
+	background-color: black;
+	color: white;
+	border-radius: 5px 5px 0px 0px;
+}
+.word-content{
+	padding: 1em;
+	background-color: rgba(222,222,233,0.3);
+	border-bottom: 1px solid grey;
+}
+
+.word{
+	background-color: rgba(11,122,22,0.8);
+	padding: .4em;
+	border-radius: 5px;
+	color: white;
+}
+
+.margin4{
+	margin: 5px 0px;
+}
